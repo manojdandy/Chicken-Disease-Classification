@@ -34,3 +34,7 @@
 
 #how to see logs
 % tensorboard --logdir artifacts/prepare_callbacks/tensorboard_log_dir
+
+#dvc
+dvc init
+dvc repro
